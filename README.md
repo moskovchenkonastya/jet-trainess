@@ -5,6 +5,15 @@
   ```Shell
   $ git clone https://github.com/anpt-jet/jet-trainess.git
   ```
+  Установите зависимости командой
+  ```shell
+    yarn install
+  ```
+  или
+  ```shell
+    npm install
+  ```
+  
   Запустите `yarn` или `npm` с командой `start` для запуска dev-сервера
   ```Shell
   yarn start
